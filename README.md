@@ -1,16 +1,15 @@
 # profile
 
-  ----
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p align="center"><img src="https://github.com/leeturtle/profile/blob/e6fde1fd70ef2be433900471ab10c5dc2dde8760/KakaoTalk_20230930_184053709.jpg" width="260"/></p>
 <p align="center"><a href="hyuns0807@naver.com">hyuns0807@naver.com</a></p>
 <br>
 	
-<p>Welcome to my page!😙 </br> I'm Suhyun Lee, Master Student from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>,<br>
+<p>Welcome to my page!😙 </br> I'm Suhyun Lee, Senior Student from <a href="https://dahs.korea.ac.kr/home"><b>SKKU</b>,<br>
 </a>  Departmant of Computer Education, Sungkyunkwan University <img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/BERT/s_img010201_logo1.png?raw=true" width="17" height="20"/><br>
 currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
-My research CV is in hear ➡️
+My notion experience portpolio is here ➡️
 <a href="https://drive.google.com/file/d/1SSs8NO70ClPoCo_Ie9M4l8ZBdkB9_ULL/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
 
 ---
