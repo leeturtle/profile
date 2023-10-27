@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif? 1531849430" width="30"/> Hey, Nice to meet you.</h1>
 <p align="center"><img src="https://github.com/leeturtle/profile/blob/e6fde1fd70ef2be433900471ab10c5dc2dde8760/KakaoTalk_20230930_184053709.jpg" width="300"/></p>
-<p>Welcome to my page! </br> I'm Jeong Eul, Datascientist from <a href="https://dahs.korea.ac.kr/home"><b>DAHS</b>,</a> Departmant of Computer Education, Sungkyunkwan Univ, <img src="https://i.ibb.co/3087dtg/south-korea.png" width="13"/><b>Korea</b>, currently living in <img src="https://i.ibb.co/3087dtg/south-korea.png" width="13"/> <b>Incheon, Korea</b>. My research CV is in
+<p>Welcome to my page! </br> I'm Suhyun, Datascientist from <a href="https://www.skku.edu/skku/index.do"><b>DAHS</b>,</a> Departmant of Computer Education, Sungkyunkwan Univ, <img src="https://i.ibb.co/3087dtg/south-korea.png" width="13"/><b>Korea</b>, currently living in <img src="https://i.ibb.co/3087dtg/south-korea.png" width="13"/> <b>Incheon, Korea</b>. My research CV is in
 hear
 <a href="https://drive.google.com/file/d/1IjF64yBxYT5_CG_EiLFeKOTKPKieMHtc/view?usp=sharing"><b>Curriculum Vitae (CV)</b></a> </p>
 <h3>Skills</h3>
