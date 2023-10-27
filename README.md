@@ -10,7 +10,7 @@
 </a>  Departmant of Computer Education, Sungkyunkwan University <img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/BERT/s_img010201_logo1.png?raw=true" width="17" height="20"/><br>
 currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 My notion experience portpolio is here ➡️
-<a href="https://drive.google.com/file/d/1SSs8NO70ClPoCo_Ie9M4l8ZBdkB9_ULL/view?usp=sharing"><b>Curriculum Vitae(CV)</b></a> </p>
+<a href="https://thinkable-alphabet-026.notion.site/I-m-Suhyun-Lee-54c3fb6de31a4ead8eba07f2e5d8f39a?pvs=4"><b> Experience portpolio,suhyun Lee </b></a> </p>
 
 ---
 
