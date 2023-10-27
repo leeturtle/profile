@@ -2,12 +2,12 @@
 
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align="center"><img src="https://github.com/leeturtle/profile/pull/1/commits/87d1d6de0cda1f5f0d57796786309c7789f3be5c" width="260"/></p>
+<p align="center"><img src="me.png" width="260"/></p>
 <p align="center"><a href="hyuns0807@naver.com">hyuns0807@naver.com</a></p>
 <br>
 	
-<p>Welcome to my page!😙 </br> I'm Suhyun Lee, Senior Student from <a href="https://dahs.korea.ac.kr/home"><b>SKKU</b>,<br>
-</a>  Departmant of Computer Education, Sungkyunkwan University <img src="https://github.com/Jeong-Eul/Data-Mining-Study/blob/main/BERT/s_img010201_logo1.png?raw=true" width="17" height="20"/><br>
+<p>Welcome to my page!😙 </br> I'm Suhyun Lee, Senior Student from <a href="https://comedu.skku.edu/comedu/index.do"><b>SKKU</b>,<br>
+</a>  Departmant of Computer Education, Sungkyunkwan University <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2FMjAxNjEwMDhfNTQg%2FMDAxNDc1ODkwNzMyOTE4.oXdbJ7fdOnwYuhPw1IttOWjzejG6qwAbHzoSgN0Vhq4g.81i4fW-PqjC2km_vk1vo76pcEIhKZseKQi6HpY8NA_sg.PNG.ring_univ%2F%25BC%25BA%25B1%25D5%25B0%25FC%25B4%25EB.png&type=sc960_832" width="17" height="20"/><br>
 currently living in <img src="https://cdn-icons-png.flaticon.com/128/2195/2195482.png" width="25"/> <b>Seoul, Korea</b>.<img src="https://i.ibb.co/30B7dtg/south-korea.png" width="15"/><br>
 My notion experience portpolio is here ➡️
 <a href="https://thinkable-alphabet-026.notion.site/I-m-Suhyun-Lee-54c3fb6de31a4ead8eba07f2e5d8f39a?pvs=4"><b> Experience portpolio,suhyun Lee </b></a> </p>
