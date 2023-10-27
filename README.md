@@ -2,7 +2,7 @@
 
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align="center"><img src="https://github.com/leeturtle/profile/blob/e6fde1fd70ef2be433900471ab10c5dc2dde8760/KakaoTalk_20230930_184053709.jpg" width="260"/></p>
+<p align="center"><img src="https://github.com/leeturtle/profile/pull/1/commits/87d1d6de0cda1f5f0d57796786309c7789f3be5c" width="260"/></p>
 <p align="center"><a href="hyuns0807@naver.com">hyuns0807@naver.com</a></p>
 <br>
 	
